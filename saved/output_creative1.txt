@@ -1,0 +1,23 @@
+Prompt: continue this story: once upon a time, there
+Max Tokens: 800
+Temperature: 1.0
+Top-k: 5
+Top-p: 0.8
+Seed: 123
+Once upon a time, there was a little girl named Alice who lived in a small village nestled in the rolling hills of the countryside. Alice loved to explore the woods surrounding her home, often wandering for hours and dreaming up grand adventures.
+
+One sunny afternoon, Alice stumbled upon a curious sight. In a small clearing, she discovered a tiny door, no bigger than a rabbit hole, nestled at the base of a grand oak tree. Intrigued, she knelt down to examine it more closely.
+
+The door was carved from rich mahogany, adorned with intricate patterns and a gleaming brass knob. Alice felt a rush of excitement as she reached out and turned the knob. With a soft click, the door swung open, revealing a dimly lit corridor beyond.
+
+Without hesitation, Alice stepped through the doorway, her curiosity burning bright. As she crossed the threshold, she felt a strange sensation, as if she were shrinking with each step. By the time she reached the other side, she had shrunk to the size of a mouse!
+
+Alice looked around in wonder, her eyes adjusting to the soft glow of the corridor. She found herself in a grand hallway, lined with ornate arches and mysterious doorways. At the far end, a flickering light beckoned her forward.
+
+As she ventured deeper into this strange new world, Alice encountered a host of unusual characters and faced challenges that tested her courage and resourcefulness. She met a wise old caterpillar who offered sage advice, attended a mad tea party with a March Hare and a sleepy dormouse, and faced the wrath of the fearsome Queen of Hearts in a game of croquet.
+
+Through it all, Alice remained brave and steadfast, determined to find her way home. Along the way, she learned valuable lessons about friendship, courage, and the power of her own imagination.
+
+In the end, Alice awoke to find herself back in the familiar surroundings of her village home. The adventure she had just experienced felt like a dream, yet the lessons she had learned and the memories she had made would stay with her forever.
+
+And so, with a heart full of wonder and a newfound sense of confidence, Alice set out to explore the world anew, ready to embrace whatever adventures lay ahead.

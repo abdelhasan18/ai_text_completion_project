@@ -1,0 +1,13 @@
+Prompt: explain how inodes link to files like i am five
+Max Tokens: 800
+Temperature: 0.9
+Top-k: 9
+Top-p: 0.8
+Seed: 123
+Inodes are like special folders that help the computer find your files. Imagine you have a toy box where you keep all your toys. To find a specific toy, like your favourite stuffed animal, you might look through the box and search for it. But with lots of files on a computer, it would take too long to look through them all every time!
+
+So, the computer uses something called an "inode" to keep track of where each file is. An inode is like a special folder that holds important information about your files, like a map that shows where to find them.
+
+Just like how you might label your toy bins with pictures or words to help you find the right one quickly, inodes have unique numbers that act like special labels. Each file has its own inode, and the computer uses these numbers to quickly find and open the right file.
+
+So, when you want to play with a certain toy (or open a file), the computer looks at the inode number and knows exactly where to find it, without having to search through everything. It's like a secret code that helps the computer find your files super fast!

@@ -1,0 +1,7 @@
+Prompt: continue this story: once upon a time, there
+Max Tokens: 800
+Temperature: 0.5
+Top-k: 5
+Top-p: 0.3
+Seed: 123
+Once upon a time, there was a little girl named Alice who lived in a small village nestled in the rolling hills of the countryside. Alice had a vivid imagination and often spent her days dreaming up fantastical adventures and exploring the enchanted forest that bordered her village. One sunny afternoon, while chasing a butterfly through the forest, Alice stumbled upon a mysterious old tree with a knotted, gnarled trunk. Intrigued, she stepped closer and noticed a small, hidden door carved into the tree's bark.

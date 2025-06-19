@@ -1,0 +1,11 @@
+Prompt: explain how inodes link to files like i am five
+Max Tokens: 800
+Temperature: 0.9
+Top-k: 2
+Top-p: 0.8
+Seed: 123
+An inode is like a special box that holds important information about a file. It's not the file itself, but it helps us find and understand the file. Think of it like a library card in a library. The library card (inode) tells us where the book (file) is located, who wrote it, and when it was last read.
+
+Now, imagine a big filing cabinet. Each drawer in the cabinet is like a folder on your computer, and inside each drawer, there are many folders and files. Instead of using the file name to keep track of everything, we use these special boxes (inodes) to store information about each file.
+
+Just like how a library card has a unique number that helps the librarian find the right book on the shelf, each inode has a unique number too. This number is like an address that helps the computer find the right file. So when you ask your computer to open a file, it looks at the inode to find the file's address and then takes you to that file.

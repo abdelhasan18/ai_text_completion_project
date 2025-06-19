@@ -1,0 +1,15 @@
+Prompt: explain how inodes link to files like i am five
+Max Tokens: 800
+Temperature: 0.9
+Top-k: 5
+Top-p: 0.8
+Seed: 123
+In a file system, an inode is like a secret box that stores important information about a file or folder. It's like a special card that tells you everything you need to know about a specific file or folder.
+
+When you create a file or folder on your computer, the file system creates an inode for it. The inode has a unique number, like a secret code, that helps the computer find the file or folder quickly.
+
+The inode doesn't actually store the name of the file or folder, or even where it is located on the computer. Instead, it stores other important details, like who owns the file, when it was created or last changed, and how big it is.
+
+Now, imagine the inode as a key, and the file or folder as a treasure chest. The key (inode) opens the treasure chest (file or folder) and lets you access its contents. When you want to open a file or folder, the computer looks at the inode number to quickly find and open the right one.
+
+So, even though you might not see inodes directly, they are like magical keys that help your computer keep track of all your files and folders and make sure you can always find and use them!
